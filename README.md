@@ -5,5 +5,6 @@
 ![](https://img.shields.io/badge/Code-CSharp-6e67b6.svg?style=flat&logo=csharp)
 ![](https://img.shields.io/badge/Code-HTML-6e67b6.svg?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSS-6e67b6.svg?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-6e67b6.svg?style=flat&logo=javascript&logoColor=white)
 
 # CamilleSayous
