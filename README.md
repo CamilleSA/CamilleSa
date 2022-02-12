@@ -9,5 +9,7 @@
 ![](https://img.shields.io/badge/Code-TypeScript-6e67b6.svg?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Code-JSON-6e67b6.svg?style=flat&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/Code-Docker-6e67b6.svg?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6e67b6)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6e67b6)
 
 # CamilleSayous
