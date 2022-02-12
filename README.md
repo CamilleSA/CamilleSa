@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Library-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=6e67b6)
-![](https://img.shields.io/badge/Library-ChartJS-informational?style=flat&logo=chartjs&logoColor=white&color=6e67b6)
+![](https://img.shields.io/badge/Library-ChartJS-informational?style=flat&logo=chart.js&logoColor=white&color=6e67b6)
 
 ### 💽 Logiciels utilisés
 ![](https://img.shields.io/badge/Software-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6e67b6)
