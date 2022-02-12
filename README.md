@@ -1,7 +1,14 @@
 [![Header](https://github.com/CamilleSA/CamilleSayous/blob/main/HeaderGithub.png "Header")](https://some-url.dev/)
 
 # Hello world ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Je m'appelle Camille Sayous, je suis actuellement étudiante en 4ème année à **EPITECH** Paris et en échange **Erasmus** dans l'université **U-TAD** (Centro Universitario de Tecnología y Arte Digital) à Madrid en Espagne.
+Je m'appelle Camille Sayous, passionnée d'informatique et surtout de jeux vidéo. Je suis actuellement étudiante en développement informatique en 4ème année à **EPITECH** Paris et en échange **Erasmus** dans l'université **U-TAD** (Centro Universitario de Tecnología y Arte Digital) de Madrid en Espagne.
+
+Malgré mon jeune âge, j'ai effectué de nombreuses Game Jam, une formation d'un an dans un studio de jeux vidéo ainsi que des stages dans le développement web, me permettant ainsi d'affirmer avec conviction mes volontés d'évolution dans ces domaines.
+
+Ma formation assez atypique à **EPITECH** (pas de professeurs ou de cours, mais un apprentissage actif basé sur la réalisation de projets en autonomie) m'a permise d'apprendre à m'organiser et à rendre un travail fini dans les délais demandés.
+
+De la présentation de projet à la rigueur de notre notation, nous sommes formés à **EPITECH** pour répondre correctement à vos attentes et vous délivrer un produit complet et vérifié.
+Cette formation est aussi avantageuse au niveau de mes disponibilités, n'ayant pas d'activités à heure fixe dans mon cursus, elle me permet ainsi de vous garantir une disponibilité exemplaire.
 
 ## 🔧 Technologies & Outils
 ### 💻 Langages & Systèmes d'exploitation utilisés
