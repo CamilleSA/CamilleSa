@@ -71,6 +71,9 @@ Je travaille également sur des projets personnels que vous pouvez trouver sur m
 <a href="https://github.com/CamilleSA/Area-Epitech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamilleSA&repo=Area-Epitech&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/CamilleSA/Epicture-Epitech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CamilleSA&repo=Epicture-Epitech&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
 ## 📱Réseau
 **Linkedin :** [Camille Sayous](https://www.linkedin.com/in/camille-sayous-3a5563178/)
