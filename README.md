@@ -23,5 +23,7 @@
 ![](https://img.shields.io/badge/Software-Blender-informational?style=flat&logo=blender&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6e67b6)
+![](https://img.shields.io/badge/Software-Gimp-informational?style=flat&logo=gimp&logoColor=white&color=6e67b6)
+![](https://img.shields.io/badge/Software-AfterEffects-informational?style=flat&logo=abodeaftereffects&logoColor=white&color=6e67b6)
 
 # CamilleSayous
