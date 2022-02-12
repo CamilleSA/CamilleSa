@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Software-Blender-informational?style=flat&logo=blender&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6e67b6)
+![](https://img.shields.io/badge/Software-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Expo-informational?style=flat&logo=expo&logoColor=white&color=6e67b6)
