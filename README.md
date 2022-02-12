@@ -12,7 +12,7 @@ Cette formation est aussi avantageuse au niveau de mes disponibilités, n'ayant 
 
 ## 🎮 Jeux vidéo & Projets personnels
 En dehors de mes formations, je participe et réalise des jeux vidéo en GameJam, voici ma page de jeux vidéo : [Camille Sayous](https://camillesayous.itch.io/)
-Je travaille également sur des projets personnels que vous pouvez trouver sur mon site web : [Camille Sayous](https://cv-camille-sayous.netlify.app/)
+Je travaille également sur des projets personnels que vous pouvez trouver sur mon site web : [Camille Sayous](https://camillesayous.netlify.app/)
 
 ## 🔧 Technologies & Outils
 ### 💻 Langages & Systèmes d'exploitation utilisés
@@ -77,3 +77,4 @@ Je travaille également sur des projets personnels que vous pouvez trouver sur m
 
 ## 📱Réseau
 **Linkedin :** [Camille Sayous](https://www.linkedin.com/in/camille-sayous-3a5563178/)
+**Site Web :** [Camille Sayous](https://camillesayous.netlify.app/)
