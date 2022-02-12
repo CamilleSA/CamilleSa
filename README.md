@@ -60,4 +60,10 @@ Je travaille également sur des projets personnels que vous pouvez trouver sur m
 ![](https://img.shields.io/badge/Software-Github-informational?style=flat&logo=github&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=6e67b6)
 
+### 📈 Statistiques Github
+
+<a href="https://github.com/CamilleSA/CamilleSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleSA&hide=javascript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 # CamilleSayous
