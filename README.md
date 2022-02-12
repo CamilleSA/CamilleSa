@@ -20,6 +20,7 @@
 ### 📘 Frameworks & Librairies utilisés
 ![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=react&logoColor=white&color=6e67b6)
+![](https://img.shields.io/badge/Framework-Meteor-informational?style=flat&logo=meteor&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6e67b6)
