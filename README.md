@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/Code-TypeScript-6e67b6.svg?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Code-JSON-6e67b6.svg?style=flat&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/Code-Docker-6e67b6.svg?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Code-YAML-6e67b6.svg?style=flat&logo=yaml&logoColor=white)
 ![](https://img.shields.io/badge/Code-Java-6e67b6.svg?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-PHP-6e67b6.svg?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6e67b6)
@@ -23,5 +22,6 @@
 ![](https://img.shields.io/badge/Software-Unity-informational?style=flat&logo=unity&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Blender-informational?style=flat&logo=blender&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Software-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6e67b6)
+![](https://img.shields.io/badge/Software-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6e67b6)
 
 # CamilleSayous
