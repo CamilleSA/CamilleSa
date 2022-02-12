@@ -69,4 +69,5 @@ Je travaille également sur des projets personnels que vous pouvez trouver sur m
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CamilleSA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-# CamilleSayous
+## 📱Réseau
+**Linkedin :** [Camille Sayous](https://www.linkedin.com/in/camille-sayous-3a5563178/)
