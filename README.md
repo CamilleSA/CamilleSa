@@ -1,7 +1,7 @@
 [![Header](https://github.com/CamilleSA/CamilleSayous/blob/main/HeaderGithub.png "Header")](https://some-url.dev/)
 
 # Hello world ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Je m'appelle Camille Sayous, je suis actuellement étudiante en 4ème année à EPITECH et en échange Erasmus dans l'université U-TAD (Centro Universitario de Tecnología y Arte Digital) à Madrid en Espagne.
+Je m'appelle Camille Sayous, je suis actuellement étudiante en 4ème année à **EPITECH** Paris et en échange **Erasmus** dans l'université **U-TAD** (Centro Universitario de Tecnología y Arte Digital) à Madrid en Espagne.
 
 ## 🔧 Technologies & Outils
 ### 💻 Langages & Systèmes d'exploitation utilisés
