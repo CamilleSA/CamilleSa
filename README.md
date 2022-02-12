@@ -15,5 +15,6 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=6e67b6)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=6e67b6)
+![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=6e67b6)
 
 # CamilleSayous
