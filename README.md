@@ -1,6 +1,6 @@
 [![Header](https://github.com/CamilleSA/CamilleSayous/blob/main/HeaderGithub.png "Header")](https://some-url.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello world ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🔧 Technologies & Outils
 ### 💻 Langages & Systèmes d'exploitation utilisés
