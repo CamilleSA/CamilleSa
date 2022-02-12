@@ -10,6 +10,9 @@ Ma formation assez atypique à **EPITECH** (pas de professeurs ou de cours, mais
 De la présentation de projet à la rigueur de notre notation, nous sommes formés à **EPITECH** pour répondre correctement à vos attentes et vous délivrer un produit complet et vérifié.
 Cette formation est aussi avantageuse au niveau de mes disponibilités, n'ayant pas d'activités à heure fixe dans mon cursus, elle me permet ainsi de vous garantir une disponibilité exemplaire.
 
+## 🎮 Jeux vidéo & Projets personnels
+En dehors de mes formations, je participe et réalise des jeux vidéo en GameJam, voici ma page de jeux vidéo : [Camille Sayous] (https://camillesayous.itch.io/)
+
 ## 🔧 Technologies & Outils
 ### 💻 Langages & Systèmes d'exploitation utilisés
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6e67b6)
