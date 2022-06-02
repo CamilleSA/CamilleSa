@@ -1,6 +1,6 @@
 [![Header](https://github.com/CamilleSA/CamilleSayous/blob/main/HeaderGithub.png "Header")](https://some-url.dev/)
 
-# Hello world ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello world !
 Je m'appelle Camille Sayous, passionnée d'informatique et surtout de jeux vidéo. Je suis actuellement étudiante en développement informatique en 4ème année à **EPITECH** Paris et en échange **Erasmus** dans l'université **U-TAD** (Centro Universitario de Tecnología y Arte Digital) de Madrid en Espagne.
 
 Malgré mon jeune âge, j'ai effectué de nombreuses Game Jam, une formation d'un an dans un studio de jeux vidéo ainsi que des stages dans le développement web, me permettant ainsi d'affirmer avec conviction mes volontés d'évolution dans ces domaines.
