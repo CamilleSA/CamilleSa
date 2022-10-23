@@ -1,5 +1,3 @@
-[![Header](https://github.com/CamilleSA/CamilleSayous/blob/main/HeaderGithub.png "Header")](https://some-url.dev/)
-
 # Hello world !
 Je m'appelle Camille Sayous, passionnée d'informatique et surtout de jeux vidéo. Je suis actuellement étudiante en développement informatique en 4ème année à **EPITECH** Paris et en échange **Erasmus** dans l'université **U-TAD** (Centro Universitario de Tecnología y Arte Digital) de Madrid en Espagne.
 
